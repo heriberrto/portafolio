@@ -1,6 +1,6 @@
 # Hola, soy Heriberto Perez Belandria 👋
 
-Desarrollador Full Stack especializado en manejo de bases de datos y python
+Desarrollador Full Stack especializado en manejo de bases de datos, python, desarrollo web y java.
 
 ## 🚀 Sobre mí
 
