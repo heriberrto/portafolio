@@ -42,4 +42,3 @@ Implementacion de APIs para administracion de una cigarreria.
 
 - LinkedIn: https://www.linkedin.com/in/heriberto-perez-belandria-8a9664202/
 - Email: heribertp12@gmail.com
-- Portfolio Web
