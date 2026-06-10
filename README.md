@@ -4,7 +4,7 @@ Desarrollador Full Stack especializado en manejo de bases de datos y python
 
 ## 🚀 Sobre mí
 
-Breve descripción profesional.
+Estudiante universitario de noveno semestre, con sólida formación en desarrollo de software, bases de datos y redes con experiencia en proyectos de programación en java, Python, typescript, javascript y Unity, así como desarrollo web con WordPress, asi como una pasantia de 6 meses en la empresa CITEC | Corporación de Ingeniería, Tecnología y Desarrollo. Ingles avanzado y alta capacidad de aprendizaje, orientado a trabajo en equipo y aportar soluciones. 
 
 ## 🛠️ Tecnologías
 
