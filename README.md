@@ -17,6 +17,9 @@ Estudiante universitario de noveno semestre, con sólida formación en desarroll
 - NextJS
 - MySQL
 - Docker
+- HTML
+- Javascript
+- CSS
 
 ## 📌 Proyectos Destacados
 
