@@ -20,6 +20,7 @@ Estudiante universitario de noveno semestre, con sólida formación en desarroll
 - HTML
 - Javascript
 - CSS
+- Kotlin
 
 ## 📌 Proyectos Destacados
 
@@ -41,6 +42,9 @@ Proyecto universitario, es un sistema de gestion de controles de seguridad que p
 ### [Implementacion de APIs](https://github.com/heriberrto/implementacion-APIs)
 
 Implementacion de APIs para administracion de una cigarreria.
+
+### 	[SIGAPI](https://github.com/heriberrto/parcialDesarrollo)
+Proyecto titulado Titulado que permite la administracion de proyectos integradores,actividades, periodos academicos, etc., que permite la subida de archivos de evidencia usado por docentes y estudiantes en un contexto universitario como plataforma centralizada.
 
 ## 📫 Contacto
 
