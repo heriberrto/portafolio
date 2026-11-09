@@ -46,6 +46,10 @@ Implementacion de APIs para administracion de una cigarreria.
 ### 	[SIGAPI](https://github.com/heriberrto/parcialDesarrollo)
 Proyecto titulado Titulado que permite la administracion de proyectos integradores,actividades, periodos academicos, etc., que permite la subida de archivos de evidencia usado por docentes y estudiantes en un contexto universitario como plataforma centralizada.
 
+### 	[PAPERS.CO](https://gitlab.com/agomeza2-papers/papers-co)(colaborador)
+
+Proyecto titulado Papers.co que permite buscar articulos colombianos por medio de una barra buscadora como google
+
 ## 📫 Contacto
 
 - LinkedIn: https://www.linkedin.com/in/heriberto-perez-belandria-8a9664202/
